@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Glombrox
+- 👋 Hi, I’m @Glombrox, i am an aspiring developer who enjoys learning new technologies and solve hard problems
 - 👀 I’m interested in Programing AI, Web Scraping, Data Science
 - 🌱 I’m currently learning Front End Development
-- 📫 How to reach me Discord: glombrox
+- 📫 You can reach me on Discord: glombrox or linkedin: https://www.linkedin.com/in/lotfibendaoud/
 - ⚡ Fun fact: I am a video game enjoyer, i am also starting to learn how to draw pixel art
 
 <!---
